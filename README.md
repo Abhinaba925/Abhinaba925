@@ -8,7 +8,7 @@ Moreover, I love Mathematics more than anything else.
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,react,tailwind,docker,gcp" />
   </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Abhinaba925/Abhinaba925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
