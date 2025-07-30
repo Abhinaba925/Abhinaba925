@@ -25,13 +25,13 @@
   <tr>
     <td align="center"><b>Data Science & ML</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn, NumPy, Pandas" /></a>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Quantum & Tools</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit,git,github,vscode" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit,git,github,MySQL" /></a>
     </td>
   </tr>
 </table>
