@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abhinaba! 👋</h1>
 <p align="center">
-  <a href="https://github.com/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=16a34a&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer;Wireless+Communication+Expert;Quantum+Computing+Enthusiast;Physics+%26+Mathematics+Lover"></a>
+  <a href="https://github.com/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=16a34a&center=true&vCenter=true&width=550&lines=Machine+Learning;Data+Science;Quantitative+Finance;Wireless+Communication;Quantum+Computing;"></a>
 </p>
 <p align="center">
     I'm professionally trained in Machine Learning, Wireless Communication, and Physics, with a passion for turning complex data into compelling stories. My core interest lies in uncovering and applying the Mathematics that underpins every field.
@@ -25,7 +25,7 @@
   <tr>
     <td align="center"><b>Data Science & ML</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikitlearn" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" /></a>
     </td>
   </tr>
   <tr>
