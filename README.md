@@ -1,38 +1,66 @@
-## Hi there, I'm Abhinaba! 👋
-
-I'm professionally trained in Machine Learning, Wireless Communication, and Physics, with a passion for turning complex data into compelling stories. It does not matter what the field is, I love the Mathematics in it.
-
-### 🛠️ My Skills & Technologies
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,github,tensorflow" />
-  </a>
+<h1 align="center">Hi there, I'm Abhinaba! 👋</h1>
+<p align="center">
+  <a href="https://github.com/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=16a34a&center=true&vCenter=true&width=550&lines=Machine+Learning+Engineer;Wireless+Communication+Expert;Quantum+Computing+Enthusiast;Physics+%26+Mathematics+Lover"></a>
 </p>
-* Fields: Machine Learning, Quantum Computing, Wireless Communications
-* Languages & Tools: Python, C++, C, MATLAB, Qiskit, Numpy, Pandas, TensorFlow, etc. 
-* Experimental Skills: Setting up Free Space Optical Links
+<p align="center">
+    I'm professionally trained in Machine Learning, Wireless Communication, and Physics, with a passion for turning complex data into compelling stories. My core interest lies in uncovering and applying the Mathematics that underpins every field.
+</p>
 
+<p align="center">
+  <a href="mailto:abhinabaghosh.iit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/abhinaba-ghosh-293a83155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-⚡ Academic Journey: My journey into science started at IISER Kolkata, where I pursued a BS-MS in Physics with the support of an INSPIRE fellowship. Eager to bridge the gap between theoretical physics and applied engineering, I challenged myself with national exams, successfully qualifying GATE in both Maths and Physics, and securing an All India Rank of 90 in the CSIR-NET (JRF).
+---
 
-This path led me to IIT Delhi for a unique M.Tech program combining Electrical Engineering and Physics. I was immediately captivated by the world of wireless communications and built a free-space optical (FSO) link from the ground up, even creating artificial atmospheric turbulence to model the channel experimentally. Most recently, my work at IIT Bombay's CMInDS has taken me to the forefront of computation, where I've been exploring how Quantum Computing and Spintronics can tackle today's toughest optimization problems.
+### 🛠️ My Tech Stack
+*I love learning new things and experimenting with new technologies!*
+<table>
+  <tr>
+    <td align="center" width="180"><b>Languages</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,cpp,matlab" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data Science & ML</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikitlearn" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Quantum & Tools</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit,git,github,vscode" /></a>
+    </td>
+  </tr>
+</table>
 
+<details>
+<summary><b>🎓 My Academic & Professional Journey</b></summary>
+<br>
+<ul>
+    <li>⚛️ Started my scientific journey with a <b>BS-MS in Physics</b> from <b>IISER Kolkata</b>, supported by an INSPIRE fellowship.</li>
+    <li>🏆 Qualified national exams: <b>GATE</b> (Physics & Maths) and <b>CSIR-NET (JRF)</b> with an All India Rank of 90.</li>
+    <li>📡 Pursued an M.Tech at <b>IIT Delhi</b> (EE & Physics), where I built a <b>Free-Space Optical (FSO) link</b> from scratch and experimentally modeled atmospheric turbulence.</li>
+    <li>💡 Explored the intersection of <b>Quantum Computing & Spintronics</b> for solving optimization problems at <b>IIT Bombay's CMInDS</b>.</li>
+</ul>
+</details>
 
-- 🔭 I’m currently working on a sentiment analysis tool for stock market news and developing profitable strategies (backtesting) for algorithmic trading
-- 🌱 I recently completed working on developing theoretical formalism for dealing with NP-Hard Combinatorial Problems in Wireless Communication.
-- 📫 How to reach me: [abhinabaghosh.iit@gmail.com](mailto:abhinabaghosh.iit@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abhinaba-ghosh-293a83155/).
-- I’m looking to collaborate on the fields: Quantitative Finance, NLP, Quantum (enhanced) Machine Learning
-<!--
-**Abhinaba925/Abhinaba925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinaba925&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba925&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+<ul>
+    <li>🔭 Developing a sentiment analysis tool for stock market news and backtesting algorithmic trading strategies.</li>
+    <li>🌱 Finalizing a theoretical formalism for tackling NP-Hard Combinatorial Problems in Wireless Communication.</li>
+    <li>🤝 Open to collaborations in <b>Quantitative Finance, NLP, and Quantum (enhanced) Machine Learning</b>.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinaba925&color=green&style=flat-square" alt="profile views"/>
+</p>
