@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I am Abhinaba! 👋
+I love turning data into complex stories. I am professionally trained in Machine Learning, Wireless Communication, and Physics.
+Moreover, I love Mathematics more than anything else. 
+
+### 🛠️ My Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,react,tailwind,docker,gcp" />
+  </a>
+</p>
 
 <!--
 **Abhinaba925/Abhinaba925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
