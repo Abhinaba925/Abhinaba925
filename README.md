@@ -8,7 +8,10 @@ Moreover, I love Mathematics more than anything else.
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,react,tailwind,docker,gcp" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on a sentiment analysis tool for stock market news.
+- 🌱 I’m currently learning about CI/CD pipelines with GitHub Actions.
+- 📫 How to reach me: [abhinabaghosh.iit@gmail.com](mailto:abhinabaghosh.iit@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abhinaba-ghosh-293a83155/).
+
 <!--
 **Abhinaba925/Abhinaba925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
