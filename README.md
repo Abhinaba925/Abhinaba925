@@ -25,17 +25,16 @@
   <tr>
     <td align="center"><b>Data Science & ML</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn, NumPy, Pandas" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,numpy,pandas" /></a>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Quantum & Tools</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit,git,github,MySQL" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit,git,github,mysql" /></a>
     </td>
   </tr>
 </table>
-
 <details>
 <summary><b>🎓 My Academic & Professional Journey</b></summary>
 <br>
