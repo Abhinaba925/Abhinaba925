@@ -13,7 +13,7 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
 
 ---
 
-- 🔭 I’m currently working on a sentiment analysis tool for stock market news.
+- 🔭 I’m currently working on a sentiment analysis tool for stock market news and developing profitable strategies (backtesting) for algorithmic trading
 - 🌱 I’m currently working on developing theoretical formalism for dealing with NP-Hard Combinatorial Problems in Wireless Communication.
 - 📫 How to reach me: [abhinabaghosh.iit@gmail.com](mailto:abhinabaghosh.iit@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abhinaba-ghosh-293a83155/).
 - I’m looking to collaborate on the fields: Quantitative Finance, NLP, Quantum (enhanced) Machine Learning
