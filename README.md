@@ -13,9 +13,7 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
 
 ### 🏆 Certifications & Rankings
 
-<a href="https://www.hackerrank.com/profile/abhinaba925">
-  <img src="https://hacker-rank-badges.herokuapp.com/api/abhinaba925" alt="HackerRank Profile" />
-</a>
+[![HackerRank Profile](https://hackerrank-badge.vercel.app/api/abhinaba925)](https://www.hackerrank.com/profile/abhinaba925)
 
 ---
 
