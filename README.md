@@ -12,10 +12,7 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
 * Experimental Skills: Setting up Free Space Optical Links
 
 ### 🏆 Certifications & Rankings
-
-<a href="https://www.hackerrank.com/profile/abhinaba925">
-  <img src="https://hackerrank-badge.vercel.app/api/abhinaba925" alt="HackerRank Profile" />
-</a>
+[![HackerRank Profile](https://hackerrank-badge.vercel.app/api/abhinaba925)](https://www.hackerrank.com/profile/abhinaba925)
 
 - 🔭 I’m currently working on a sentiment analysis tool for stock market news and developing profitable strategies (backtesting) for algorithmic trading
 - 🌱 I recently completed working on developing theoretical formalism for dealing with NP-Hard Combinatorial Problems in Wireless Communication.
