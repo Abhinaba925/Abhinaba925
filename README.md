@@ -1,6 +1,7 @@
 ## Hi there, I'm Abhinaba! 👋
 
 I'm professionally trained in Machine Learning, Wireless Communication, and Physics, with a passion for turning complex data into compelling stories. It does not matter what the field is, I love the Mathematics in it.
+
 ### 🛠️ My Skills & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
@@ -10,7 +11,7 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
 * Fields: Machine Learning, Quantum Computing, Wireless Communications
 * Languages & Tools: Python, C++, C, MATLAB, Qiskit, Numpy, Pandas, TensorFlow, etc. 
 * Experimental Skills: Setting up Free Space Optical Links
-
+⚡ Academic Journey: I joined IISER Kolkata with INSPIRE fellowship to pursue BS-MS dual degree in Physics. I decided for higher studeies and qualified GATE in Mathematics and Physics and simulatneouly CSIR-NET (JRF with AIR 90). I joined IIT Delhi to pursue M.Tech. jointly with department of EE and Physics where I got interested into the fasicanting world of wireless communication and free space optiocal communication. I set up an FSO link from scratch and expereimentally model the channel after introducing artificial turbulence. Later, I joined CMInDS, IIT Bombay where I worked on Quantum Computing and Spintronics for Optimization problems. 
 
 
 - 🔭 I’m currently working on a sentiment analysis tool for stock market news and developing profitable strategies (backtesting) for algorithmic trading
