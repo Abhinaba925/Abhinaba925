@@ -7,8 +7,9 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
     <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,github,tensorflow" />
   </a>
 </p>
-* **Fields:** Machine Learning, Quantum Computing, Wireless Communications
-* **Languages & Tools:** Python, C++, C, MATLAB, Qiskit
+* Fields: Machine Learning, Quantum Computing, Wireless Communications
+* Languages & Tools: Python, C++, C, MATLAB, Qiskit, Numpy, Pandas, TensorFlow, etc. 
+* Experimental Skills: Setting up Free Space Optical Links
 
 ---
 
