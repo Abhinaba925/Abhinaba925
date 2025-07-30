@@ -1,17 +1,21 @@
-## Hi there, I am Abhinaba! 👋
-I love turning data into complex stories. I am professionally trained in Machine Learning, Wireless Communication, and Physics.
-Moreover, I love Mathematics more than anything else. 
+## Hi there, I'm Abhinaba! 👋
 
-### 🛠️ My Tech Stack
+I'm professionally trained in Machine Learning, Wireless Communication, and Physics, with a passion for turning complex data into compelling stories. My work is grounded in a deep appreciation for Mathematics.
+
+### 🛠️ My Skills & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,react,tailwind,docker,gcp" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,qiskit,tensorflow" />
   </a>
 </p>
+* **Fields:** Machine Learning, Quantum Computing, Wireless Communications
+* **Languages & Tools:** Python, C++, C, MATLAB, Qiskit
+
+---
+
 - 🔭 I’m currently working on a sentiment analysis tool for stock market news.
 - 🌱 I’m currently learning about CI/CD pipelines with GitHub Actions.
 - 📫 How to reach me: [abhinabaghosh.iit@gmail.com](mailto:abhinabaghosh.iit@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/abhinaba-ghosh-293a83155/).
-
 <!--
 **Abhinaba925/Abhinaba925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
