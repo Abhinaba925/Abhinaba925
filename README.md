@@ -11,8 +11,7 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
 * Languages & Tools: Python, C++, C, MATLAB, Qiskit, Numpy, Pandas, TensorFlow, etc. 
 * Experimental Skills: Setting up Free Space Optical Links
 
-### 🏆 Certifications & Rankings
-[![HackerRank Profile](https://hackerrank-badge.vercel.app/api/abhinaba925)](https://www.hackerrank.com/profile/abhinaba925)
+
 
 - 🔭 I’m currently working on a sentiment analysis tool for stock market news and developing profitable strategies (backtesting) for algorithmic trading
 - 🌱 I recently completed working on developing theoretical formalism for dealing with NP-Hard Combinatorial Problems in Wireless Communication.
