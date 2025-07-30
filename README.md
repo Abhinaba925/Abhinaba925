@@ -13,7 +13,9 @@ I'm professionally trained in Machine Learning, Wireless Communication, and Phys
 * Experimental Skills: Setting up Free Space Optical Links
 
 
-⚡ Academic Journey: I joined IISER Kolkata with INSPIRE fellowship to pursue BS-MS dual degree in Physics. I decided for higher studeies and qualified GATE in Mathematics and Physics and simulatneouly CSIR-NET (JRF with AIR 90). I joined IIT Delhi to pursue M.Tech. jointly with department of EE and Physics where I got interested into the fasicanting world of wireless communication and free space optiocal communication. I set up an FSO link from scratch and expereimentally model the channel after introducing artificial turbulence. Later, I joined CMInDS, IIT Bombay where I worked on Quantum Computing and Spintronics for Optimization problems. 
+⚡ Academic Journey: My journey into science started at IISER Kolkata, where I pursued a BS-MS in Physics with the support of an INSPIRE fellowship. Eager to bridge the gap between theoretical physics and applied engineering, I challenged myself with national exams, successfully qualifying GATE in both Maths and Physics, and securing an All India Rank of 90 in the CSIR-NET (JRF).
+
+This path led me to IIT Delhi for a unique M.Tech program combining Electrical Engineering and Physics. I was immediately captivated by the world of wireless communications and built a free-space optical (FSO) link from the ground up, even creating artificial atmospheric turbulence to model the channel experimentally. Most recently, my work at IIT Bombay's CMInDS has taken me to the forefront of computation, where I've been exploring how Quantum Computing and Spintronics can tackle today's toughest optimization problems.
 
 
 - 🔭 I’m currently working on a sentiment analysis tool for stock market news and developing profitable strategies (backtesting) for algorithmic trading
