@@ -3,7 +3,7 @@
 <a href="https://github.com/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=16a34a&center=true&vCenter=true&width=550&lines=Machine+Learning;Data+Science;Quantitative+Finance;Wireless+Communication;Quantum+Computing;"></a>
 </p>
 <p align="center">
-I'm professionally trained in Machine Learning, Wireless Communication, and Physics, with a passion for turning complex data into compelling stories. My core interest lies in uncovering and applying the Mathematics that underpins every field.
+I'm professionally trained in Machine Learning, Wireless Communication, and Quantum Computing, with a passion for turning complex data into compelling stories. My core interest lies in uncovering and applying the Mathematics that underpins every field.
 </p>
 
 <p align="center">
