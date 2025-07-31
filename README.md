@@ -48,7 +48,7 @@ I love learning new things and experimenting with new technologies!
 
 ♟️ Hobbies & Interests
 
-When I'm not crunching numbers or coding, you can find me playing chess!
+Beyond coding and crunching numbers, I'm an avid chess player. Feel free to challenge me!
 
 <p align="center">
 Find me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! (Username: abhinabaghosh)
