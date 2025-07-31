@@ -51,12 +51,12 @@ I love learning new things and experimenting with new technologies!
 When I'm not crunching numbers or coding, you can find me playing chess!
 
 <p align="center">
-Find me on <a href="https://www.google.com/search?q=https://www.chess.com/member/Abhinaba925" target="_blank"><b>Chess.com</b></a>! (Username: abhinabaghosh)
+Find me on <a href="https://www.google.com/search?q=https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! (Username: abhinabaghosh)
 </p>
 <p align="center">
 <!-- Replace Abhinaba925 with your correct chess.com username if it's different -->
-<a href="https://www.google.com/search?q=https://www.chess.com/member/Abhinaba925">
-<img width="400px" src="https://www.google.com/search?q=https://github-readme-chess.vercel.app/api%3Fusername%3DAbhinaba925%26theme%3Dvision-friendly-dark%26show_icons%3Dtrue%26bg_color%3D0d1117" alt="Chess.com Stats" />
+<a href="https://www.google.com/search?q=https://www.chess.com/member/abhinabaghosh">
+<img width="400px" src="https://www.google.com/search?q=https://github-readme-chess.vercel.app/api%3Fusername%3Dabhinabaghosh%26theme%3Dvision-friendly-dark%26show_icons%3Dtrue%26bg_color%3D0d1117" alt="Chess.com Stats" />
 </a>
 </p>
 
