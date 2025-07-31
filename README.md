@@ -51,7 +51,7 @@ I love learning new things and experimenting with new technologies!
 When I'm not crunching numbers or coding, you can find me playing chess!
 
 <p align="center">
-Find me on <a href="https://www.google.com/search?q=https://www.chess.com/member/Abhinaba925" target="_blank"><b>Chess.com</b></a>! (Username: Abhinaba925)
+Find me on <a href="https://www.google.com/search?q=https://www.chess.com/member/Abhinaba925" target="_blank"><b>Chess.com</b></a>! (Username: abhinabaghosh)
 </p>
 <p align="center">
 <!-- Replace Abhinaba925 with your correct chess.com username if it's different -->
