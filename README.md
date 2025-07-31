@@ -51,7 +51,7 @@ I love learning new things and experimenting with new technologies!
 Beyond coding and crunching numbers, I'm an avid chess player. Feel free to challenge me!
 
 <p align="center">
-Find me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! (Username: abhinabaghosh)
+Find me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! 
 </p>
 <p align="center">
 <img src="https://github.com/bh-99/bh-99/blob/main/assets/chess.gif?raw=true" width="400px" alt="Chess Animation">
