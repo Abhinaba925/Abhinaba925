@@ -54,9 +54,7 @@ When I'm not crunching numbers or coding, you can find me playing chess!
 Find me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! (Username: abhinabaghosh)
 </p>
 <p align="center">
-<a href="https://www.chess.com/member/abhinabaghosh">
-<img width="400px" src="https://github-readme-chess.vercel.app/api?username=abhinabaghosh&theme=vision-friendly-dark&show_icons=true&bg_color=0d1117" alt="Chess.com Stats" />
-</a>
+<img src="https://github.com/bh-99/bh-99/blob/main/assets/chess.gif?raw=true" width="400px" alt="Chess Animation">
 </p>
 
 📊 My GitHub Stats
