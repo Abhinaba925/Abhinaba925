@@ -39,10 +39,10 @@ I love learning new things and experimenting with new technologies!
 <summary><b>🎓 My Academic & Professional Journey</b></summary>
 <br>
 <ul>
-<li>⚛️ Started my scientific journey with a <b>BS-MS in Physics</b> from <b>IISER Kolkata</b>, supported by an INSPIRE fellowship.</li>
+<li>⚛️ Started my scientific journey with a <b>BS-MS in Physics</b> from <b>IISER Kolkata</b>, supported by an INSPIRE fellowship. Worked with Open Quantum Systems and LLG equation. </li> 
 <li>🏆 Qualified national exams: <b>GATE</b> (Physics & Maths) and <b>CSIR-NET (JRF)</b> with an All India Rank of 90.</li>
-<li>📡 Pursued an M.Tech at <b>IIT Delhi</b> (EE & Physics), where I built a <b>Free-Space Optical (FSO) link</b> from scratch and experimentally modeled atmospheric turbulence.</li>
-<li>💡 Explored the intersection of <b>Quantum Computing & Spintronics</b> for solving optimization problems at <b>IIT Bombay's CMInDS</b>.</li>
+<li>📡 Pursued an M.Tech at <b>IIT Delhi</b> (EE & Physics), where I built a <b>Free-Space Optical (FSO) link</b> from scratch and experimentally modeled free space channel by adding atmospheric turbulence. Thankfully, the work has been published in IEEE ANTS. </li>
+<li>💡 Fascinated by the field of quantum machine learning and optimization, joined <b>CMInDS, IIT Bombay</b>.</li. Did courses on Machine Learning, Linear Algebra, Quantum Computing, Probability and Random Processes, and many more; worked on Combinatorial Optimization Problems applicable to Wirless Communication and solved them using Quantum Optimization and Spintronics.
 </ul>
 </details>
 
