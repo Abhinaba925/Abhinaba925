@@ -49,7 +49,7 @@ My journey has been about building a multidisciplinary foundation to tackle comp
   <li>⚛️ <b>Foundation in First Principles (BS-MS Physics, IISER Kolkata):</b> Started by modeling the fundamental laws of nature, working on Open Quantum Systems. This built my intuition for the mathematical frameworks that underpin all complex systems.</li>
   <li>📡 <b>Engineering Real-World Data Channels (M.Tech, IIT Delhi):</b> Designed and built a Free-Space Optical (FSO) communication link from the ground up. This involved experimentally modeling atmospheric turbulence—a real-world, stochastic noise problem. This work was published in <b>IEEE ANTS</b>.</li>
   <li>💡 <b>Mastering the Algorithmic Core (CMInDS, IIT Bombay):</b> Dived deep into the heart of modern AI, taking advanced courses in Machine Learning, Probabilistic Models, and Quantum Computing. Applied this knowledge to solve combinatorial optimization problems in wireless communication using novel quantum and spintronic approaches.</li>
-  <li>🏆 <b>Validated Expertise:</b> Qualified national-level exams like <b>GATE</b> (Physics & Maths) and <b>CSIR-NET (JRF)</b> with an All India Rank of 90.</li>
+  <li>🏆 <b>National Level Exams:</b> Qualified national-level exams like <b>GATE</b> (both Physics & Maths) and <b>CSIR-NET (JRF)</b> with an All India Rank of 90.</li>
 </ul>
 </details>
 
