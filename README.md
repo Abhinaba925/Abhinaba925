@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a researcher and engineer specializing in the intersection of <b>Machine Learning, Physics, and Finance</b>. My passion lies in leveraging a first-principles approach, using the deep mathematical structures that govern complex systems—from quantum states to market trends—to build robust and intelligent data-driven solutions.
+  I'm a researcher and engineer specializing in the intersection of <b>Machine Learning, Physics, and Finance</b>. My passion lies utilizing a first-principles approach, using the deep mathematical structures that govern complex systems—from quantum states to market trends—to build robust and intelligent data-driven solutions.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 I'm currently focused on developing and deploying solutions in these key areas:
 
 * **📈 Quantitative Finance:** Developing sentiment analysis models for financial news and backtesting algorithmic trading strategies based on the output.
-* **📡 Quantum-Enhanced Communication:** Finalizing a theoretical framework using Quantum Optimization and Spintronics to solve NP-Hard combinatorial problems in wireless communication systems.
+* **📡 Quantum-Enhanced Wireless Communication:** Finalizing a theoretical framework using Quantum Optimization and Spintronics to solve NP-Hard combinatorial problems in wireless communication systems.
 * **🧠 Core ML:** Exploring the frontiers of Natural Language Processing and Quantum-enhanced Machine Learning algorithms.
 
 ---
@@ -29,7 +29,7 @@ I believe in using the right tool for the job and am constantly expanding my ars
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,scikitlearn,numpy,pandas" /></a>
 </p>
 
-#### ⚛️ Quantum & Scientific Computing
+#### ⚛️  Scientific Computing
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit,matlab" /></a>
 </p>
@@ -66,11 +66,13 @@ My journey has been about building a multidisciplinary foundation to tackle comp
 
 ## ♟️ Beyond the Code
 
-When I'm not training models, I enjoy training my mind with a game of chess. It's the ultimate exercise in strategy and foresight.
+Beyond coding and crunching numbers, I'm an avid chess player. Feel free to challenge me!
 
 <p align="center">
-  Feel free to challenge me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! <br>
-  <img src="https://github.com/bh-99/bh-99/blob/main/assets/chess.gif?raw=true" width="400px" alt="Chess Animation">
+Find me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>! 
+</p>
+<p align="center">
+<img src="https://github.com/bh-99/bh-99/blob/main/assets/chess.gif?raw=true" width="400px" alt="Chess Animation">
 </p>
 
 ---
