@@ -28,14 +28,13 @@
 
 <hr style="border: 1px solid #30363d;">
 
-<details>
-<summary><b>🛠️ Click to View My Tech Stack</b></summary>
-<br>
+## 🛠️ My Tech Stack
 <div align="center">
 
   **Machine Learning & Data Science**
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
@@ -47,6 +46,7 @@
   <p>
     <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/>
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   </p>
 
   **Core Programming & DevOps**
@@ -61,11 +61,10 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </p>
 </div>
-</details>
 
-<details>
-<summary><b>🎓 Click to View My Academic & Professional Journey</b></summary>
-<br>
+<hr style="border: 1px solid #30363d;">
+
+## 🎓 My Academic & Professional Journey
 My journey has been about building a multidisciplinary foundation to tackle complex problems at their core.
 
 * **⚛️ Foundation in First Principles (BS-MS Physics, IISER Kolkata)**
@@ -81,12 +80,10 @@ My journey has been about building a multidisciplinary foundation to tackle comp
 * 🏆 **National Achievements**
     * Qualified **GATE** in both Physics & Mathematics.
     * Secured **CSIR-NET (JRF)** with an All India Rank of 90.
-</details>
 
 <hr style="border: 1px solid #30363d;">
 
 ## ♟️ Beyond the Code
-
 When I'm not crunching numbers, I'm an avid chess player. I believe the strategic thinking required in chess is complementary to building robust systems.
 
 <div align="center">
@@ -97,7 +94,6 @@ When I'm not crunching numbers, I'm an avid chess player. I believe the strategi
 <hr style="border: 1px solid #30363d;">
 
 ## 🤝 Let's Collaborate
-
 I'm always open to discussing new ideas and projects in **Quantitative Finance, NLP, and Quantum Machine Learning**. Let's connect!
 
 <p align="center">
