@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Live Projects & Research Focus
+##  Live Projects & Research Focus
 
 I'm currently focused on developing and deploying solutions in these key areas:
 
