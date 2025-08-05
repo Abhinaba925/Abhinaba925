@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.gif" width="100%">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
 </p>
 
 ## 🚀 What I'm Currently Building
@@ -29,7 +29,7 @@
 -   **🧠 Core AI/ML:** Exploring the frontiers of Natural Language Processing and Quantum-enhanced Machine Learning.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.gif" width="100%">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
 </p>
 
 <details>
@@ -75,7 +75,7 @@ My journey has been about building a multidisciplinary foundation to tackle comp
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.gif" width="100%">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
 </p>
 
 ## ♟️ Beyond the Code
@@ -88,7 +88,7 @@ When I'm not crunching numbers, I'm an avid chess player. I believe the strategi
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.gif" width="100%">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
 </p>
 
 ## 🤝 Let's Collaborate
