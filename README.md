@@ -18,9 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba925&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
-</p>
+<hr style="border: 1px solid #30363d;">
 
 ## 🚀 What I'm Currently Building
 
@@ -28,9 +26,7 @@
 -   **📡 Quantum-Enhanced Wireless Communication:** Architecting a framework using Quantum Optimization & Spintronics to solve NP-Hard problems in wireless systems.
 -   **🧠 Core AI/ML:** Exploring the frontiers of Natural Language Processing and Quantum-enhanced Machine Learning.
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
-</p>
+<hr style="border: 1px solid #30363d;">
 
 <details>
 <summary><b>🛠️ Click to View My Tech Stack</b></summary>
@@ -39,17 +35,17 @@
 
 **Machine Learning & Data Science**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,numpy,pandas" alt="ML & DS Icons"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow-dark,pytorch-dark,scikitlearn-dark,numpy-dark,pandas-dark" alt="ML & DS Icons"/></a>
 </p>
 
 **Scientific & Quantum Computing**
 <p>
-  <img src="https://skillicons.dev/icons?i=qiskit,matlab" alt="Scientific Computing Icons"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit-dark,matlab-dark" alt="Scientific Computing Icons"/></a>
 </p>
 
 **Core Programming & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,git,github,docker,bash,linux" alt="Core Programming Icons"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,mysql,git,github-dark,docker-dark,bash-dark,linux-dark" alt="Core Programming Icons"/></a>
 </p>
 </div>
 </details>
@@ -74,9 +70,7 @@ My journey has been about building a multidisciplinary foundation to tackle comp
     * Secured **CSIR-NET (JRF)** with an All India Rank of 90.
 </details>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
-</p>
+<hr style="border: 1px solid #30363d;">
 
 ## ♟️ Beyond the Code
 
@@ -87,9 +81,7 @@ When I'm not crunching numbers, I'm an avid chess player. I believe the strategi
   <img src="https://github.com/bh-99/bh-99/blob/main/assets/chess.gif?raw=true" width="400px" alt="Chess Animation">
 </div>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif" width="100%">
-</p>
+<hr style="border: 1px solid #30363d;">
 
 ## 🤝 Let's Collaborate
 
