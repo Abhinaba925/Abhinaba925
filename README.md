@@ -88,7 +88,7 @@ When I'm not crunching numbers, I'm an avid chess player. I believe the strategi
 
 <div align="center">
   <p>Challenge me on <a href="https://www.chess.com/member/abhinabaghosh" target="_blank"><b>Chess.com</b></a>!</p>
-  <img src="https://github.com/bh-99/bh-99/blob/main/assets/chess.gif?raw=true" width="400px" alt="Chess Animation">
+  <img src="https://raw.githubusercontent.com/Abhinaba925/Abhinaba925/main/assets/chess.gif" width="400px" alt="Chess Animation">
 </div>
 
 <hr style="border: 1px solid #30363d;">
