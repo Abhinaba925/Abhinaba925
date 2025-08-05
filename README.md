@@ -33,20 +33,33 @@
 <br>
 <div align="center">
 
-**Machine Learning & Data Science**
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow-dark,pytorch-dark,scikitlearn-dark,numpy-dark,pandas-dark" alt="ML & DS Icons"/></a>
-</p>
+  **Machine Learning & Data Science**
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </p>
 
-**Scientific & Quantum Computing**
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qiskit-dark,matlab-dark" alt="Scientific Computing Icons"/></a>
-</p>
+  **Scientific & Quantum Computing**
+  <p>
+    <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/>
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  </p>
 
-**Core Programming & DevOps**
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,mysql,git,github-dark,docker-dark,bash-dark,linux-dark" alt="Core Programming Icons"/></a>
-</p>
+  **Core Programming & DevOps**
+  <p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </p>
 </div>
 </details>
 
