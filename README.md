@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Abhinaba! 👋</h1>
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0891b2&center=true&vCenter=true&width=550&lines=Machine+Learning;Data+Science;Quantitative+Finance;Wireless+Communication;Quantum+Computing;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0891b2&center=true&vCenter=true&width=550&lines=Machine+Learning;Data+Science;Quantitative+Finance;Wireless+Communication;Quantum+Computing" alt="Typing SVG">
   </a>
 </div>
 
