@@ -70,18 +70,19 @@
 My journey has been about building a multidisciplinary foundation to tackle complex problems at their core.
 
 ⚛️ Foundation in First Principles (BS-MS Physics, IISER Kolkata)
-    * Modeled the fundamental laws of nature, specializing in Open Quantum Systems.
+    * Modeled the fundamental laws of nature, specializing in Physics but got more interest in Mathematics and Machine Learning. 
 
 📡 Engineering Real-World Data Channels (M.Tech, IIT Delhi)
-    * Designed and built a Free-Space Optical (FSO) communication link from the ground up.
-    * Published in IEEE ANTS.
+    * Designed and built a Free-Space Optical (FSO) communication link of speed upto 1 Gbps from the ground up. It was an amazing experience when you build something from stratch and make it work. 
+    * Published  and presented at IEEE ANTS.
 
-💡 Mastering the Algorithmic Core (CMInDS, IIT Bombay)
+💡 After dealing with telecommunication for two years I came back to Machine Learning and Quantum Computing and joined Centre for Machine Intelligence and Data Science, IIT Bombay as Research Staff.
     * Dived deep into modern AI with advanced courses in Machine Learning, Probabilistic Models, and Quantum Computing.
 
 🏆 National Achievements
     * Qualified GATE in both Physics & Mathematics.
     * Secured CSIR-NET (JRF) with an All India Rank of 90.
+    * Declined multiple PhD and Job offers to pursue my own interests.
 
 <hr style="border: 1px solid #30363d;">
 
