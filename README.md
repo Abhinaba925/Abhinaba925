@@ -82,7 +82,7 @@ My journey has been about building a multidisciplinary foundation to tackle comp
 🏆 National Achievements
     * Qualified GATE in both Physics & Mathematics.
     * Secured CSIR-NET (JRF) with an All India Rank of 90.
-    * Declined multiple PhD and Job offers to pursue my own interests.
+    
 
 <hr style="border: 1px solid #30363d;">
 
