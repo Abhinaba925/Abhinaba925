@@ -21,7 +21,7 @@
 <hr style="border: 1px solid #30363d;">
 
 🚀 What I'm Currently Building
-  📈 Quantitative Finance: Engineering sentiment analysis models for financial news and backtesting algorithmic trading strategies.
+  📈 Quantitative Finance: Backtesting algorithmic trading strategies.
 
   📡 Quantum-Enhanced Wireless Communication: Architecting a framework using Quantum Optimization & Spintronics to solve NP-Hard problems in wireless systems.
 
