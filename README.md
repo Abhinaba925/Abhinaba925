@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>
-    I'm a researcher and engineer operating at the intersection of <b>Machine Learning, Physics, and Finance</b>.
+    I'm a researcher and engineer operating at the intersection of <b>Machine Learning, Quantum Computing, and Finance</b>.
     <br>
     My work is driven by a first-principles approach, leveraging deep mathematical structures to build robust, intelligent, data-driven solutions.
   </p>
