@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Abhinaba! 👋</h1>
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0891b2&center=true&vCenter=true&width=550&lines=Machine+Learning;Data+Science;Quantitative+Finance;Wireless+Communication;Quantum+Computing" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=bd93f9&center=true&vCenter=true&width=550&lines=Machine+Learning;Data+Science;Quantitative+Finance;Wireless+Communication;Quantum+Computing" alt="Typing SVG">
   </a>
 </div>
 
@@ -14,16 +14,16 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaba925&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" height="150" alt="Abhinaba's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba925&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaba925&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" height="150" alt="Abhinaba's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaba925&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10" height="150" alt="Top Languages"/>
 </p>
 
 <hr style="border: 1px solid #30363d;">
 
 ### 🚀 What I'm Currently Doing
-* 📈 **Quantitative Finance:** Working as a Research Consultant at WorldQuant BRAIN, engineering predictive quantitative alphas across global equity universes[cite: 9, 10, 14].
-* 📡 **Quantum & Spintronics:** Formulating NP-hard combinatorial optimization problems into Ising Hamiltonians to find near-optimal solutions[cite: 19, 20].
-* 🧠 **Agentic AI & RAG:** Architecting multi-agent workflows (LangGraph) and self-correcting Retrieval-Augmented Generation systems evaluated by LLMs-as-a-Judge[cite: 38, 45, 46].
+* 📈 **Quantitative Finance:** Working as a Research Consultant at WorldQuant BRAIN, engineering predictive quantitative alphas across global equity universes.
+* 📡 **Quantum & Spintronics:** Formulating NP-hard combinatorial optimization problems into Ising Hamiltonians to find near-optimal solutions.
+* 🧠 **Agentic AI & RAG:** Architecting multi-agent workflows (LangGraph) and self-correcting Retrieval-Augmented Generation systems evaluated by LLMs-as-a-Judge.
 
 <hr style="border: 1px solid #30363d;">
 
@@ -63,20 +63,20 @@
 <hr style="border: 1px solid #30363d;">
 
 ### 📝 Publications
-* **Symbol detection in a MIMO wireless communication system using a FeFET-coupled CMOS ring oscillator array**[cite: 59].
-  * *Neuromorphic Computing and Engineering, 6 (014020), 2026*[cite: 60].
-* **Experimental Investigation of the Atmospheric Turbulence Effects on FSO Communication Systems**[cite: 61].
-  * *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 2023*[cite: 62].
+* **Symbol detection in a MIMO wireless communication system using a FeFET-coupled CMOS ring oscillator array**.
+  * *Neuromorphic Computing and Engineering, 6 (014020), 2026*.
+* **Experimental Investigation of the Atmospheric Turbulence Effects on FSO Communication Systems**.
+  * *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 2023*.
 
 <hr style="border: 1px solid #30363d;">
 
 ### 🎓 My Academic & Professional Journey
 My journey has been about building a multidisciplinary foundation to tackle complex problems at their core.
 
-* ⚛️ **Foundation in First Principles (BS-MS Physics, IISER Kolkata):** Modeled the fundamental laws of nature, specializing in Physics before gravitating toward Mathematics and Machine Learning[cite: 7].
-* 📡 **Engineering Real-World Data Channels (M.Tech, IIT Delhi):** Designed and built a Free-Space Optical (FSO) communication link from the ground up[cite: 6]. It was an amazing experience to build something from scratch and make it work. Published and presented my findings at IEEE ANTS[cite: 61, 62, 71].
-* 💡 **Advanced Research (CMInDS, IIT Bombay):** Joined the Centre for Machine Intelligence and Data Sciences as Research Staff, diving deep into combinatorial optimization, AI, and Quantum Computing[cite: 16, 18, 21].
-* 🏆 **National Achievements:** Secured CSIR-NET (JRF) in Physics with an AIR of 90, and qualified GATE in both Mathematics (AIR 278) and Physics (AIR 333)[cite: 64, 65].
+* ⚛️ **Foundation in First Principles (BS-MS Physics, IISER Kolkata):** Modeled the fundamental laws of nature, specializing in Physics before gravitating toward Mathematics and Machine Learning.
+* 📡 **Engineering Real-World Data Channels (M.Tech, IIT Delhi):** Designed and built a Free-Space Optical (FSO) communication link from the ground up. It was an amazing experience to build something from scratch and make it work. Published and presented my findings at IEEE ANTS.
+* 💡 **Advanced Research (CMInDS, IIT Bombay):** Joined the Centre for Machine Intelligence and Data Sciences as Research Staff, diving deep into combinatorial optimization, AI, and Quantum Computing.
+* 🏆 **National Achievements:** Secured CSIR-NET (JRF) in Physics with an AIR of 90, and qualified GATE in both Mathematics (AIR 278) and Physics (AIR 333).
 
 <hr style="border: 1px solid #30363d;">
 
@@ -99,5 +99,5 @@ I'm always open to discussing new ideas and projects in Quantitative Finance, NL
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinaba925&color=0891b2&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhinaba925&color=bd93f9&style=flat-square" alt="profile views"/>
 </p>
