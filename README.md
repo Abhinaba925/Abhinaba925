@@ -1,6 +1,6 @@
 # Abhinaba Ghosh
 
-Researcher and engineer working at the intersection of machine learning, quantum computing, wireless communication, and quantitative finance. My approach is first-principles: using mathematical structure to build robust, data-driven systems.
+Researcher and engineer working at the intersection of machine learning, quantum computing, and quantitative finance. My approach is first-principles: using mathematical structure to build robust, data-driven systems.
 
 ## Current Work
 
